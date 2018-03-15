@@ -1,0 +1,10 @@
+/home/anish/prosestuff/prose/Compound.Split/bin/Debug/netcoreapp2.0/Compound.Split.deps.json
+/home/anish/prosestuff/prose/Compound.Split/bin/Debug/netcoreapp2.0/Compound.Split.runtimeconfig.json
+/home/anish/prosestuff/prose/Compound.Split/bin/Debug/netcoreapp2.0/Compound.Split.runtimeconfig.dev.json
+/home/anish/prosestuff/prose/Compound.Split/bin/Debug/netcoreapp2.0/Compound.Split.dll
+/home/anish/prosestuff/prose/Compound.Split/bin/Debug/netcoreapp2.0/Compound.Split.pdb
+/home/anish/prosestuff/prose/Compound.Split/obj/Debug/netcoreapp2.0/Compound.Split.csproj.CoreCompileInputs.cache
+/home/anish/prosestuff/prose/Compound.Split/obj/Debug/netcoreapp2.0/Compound.Split.AssemblyInfoInputs.cache
+/home/anish/prosestuff/prose/Compound.Split/obj/Debug/netcoreapp2.0/Compound.Split.AssemblyInfo.cs
+/home/anish/prosestuff/prose/Compound.Split/obj/Debug/netcoreapp2.0/Compound.Split.dll
+/home/anish/prosestuff/prose/Compound.Split/obj/Debug/netcoreapp2.0/Compound.Split.pdb

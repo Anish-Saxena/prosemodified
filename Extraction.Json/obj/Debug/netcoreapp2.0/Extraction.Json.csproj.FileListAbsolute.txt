@@ -1,0 +1,10 @@
+/home/anish/prosestuff/prose/Extraction.Json/bin/Debug/netcoreapp2.0/Extraction.Json.deps.json
+/home/anish/prosestuff/prose/Extraction.Json/bin/Debug/netcoreapp2.0/Extraction.Json.runtimeconfig.json
+/home/anish/prosestuff/prose/Extraction.Json/bin/Debug/netcoreapp2.0/Extraction.Json.runtimeconfig.dev.json
+/home/anish/prosestuff/prose/Extraction.Json/bin/Debug/netcoreapp2.0/Extraction.Json.dll
+/home/anish/prosestuff/prose/Extraction.Json/bin/Debug/netcoreapp2.0/Extraction.Json.pdb
+/home/anish/prosestuff/prose/Extraction.Json/obj/Debug/netcoreapp2.0/Extraction.Json.csproj.CoreCompileInputs.cache
+/home/anish/prosestuff/prose/Extraction.Json/obj/Debug/netcoreapp2.0/Extraction.Json.AssemblyInfoInputs.cache
+/home/anish/prosestuff/prose/Extraction.Json/obj/Debug/netcoreapp2.0/Extraction.Json.AssemblyInfo.cs
+/home/anish/prosestuff/prose/Extraction.Json/obj/Debug/netcoreapp2.0/Extraction.Json.dll
+/home/anish/prosestuff/prose/Extraction.Json/obj/Debug/netcoreapp2.0/Extraction.Json.pdb

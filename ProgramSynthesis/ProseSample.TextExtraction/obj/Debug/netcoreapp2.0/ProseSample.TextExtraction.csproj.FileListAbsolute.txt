@@ -1,0 +1,13 @@
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.TextExtraction.grammar
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.TextExtraction.deps.json
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.TextExtraction.dll
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.TextExtraction.pdb
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.Substrings.dll
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.Substrings.Semantics.dll
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.Substrings.Semantics.pdb
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/bin/Debug/netcoreapp2.0/ProseSample.Substrings.pdb
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/obj/Debug/netcoreapp2.0/ProseSample.TextExtraction.csproj.CoreCompileInputs.cache
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/obj/Debug/netcoreapp2.0/ProseSample.TextExtraction.AssemblyInfoInputs.cache
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/obj/Debug/netcoreapp2.0/ProseSample.TextExtraction.AssemblyInfo.cs
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/obj/Debug/netcoreapp2.0/ProseSample.TextExtraction.dll
+/home/anish/prosestuff/prose/ProgramSynthesis/ProseSample.TextExtraction/obj/Debug/netcoreapp2.0/ProseSample.TextExtraction.pdb

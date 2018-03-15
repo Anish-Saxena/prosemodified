@@ -1,0 +1,10 @@
+/home/anish/prosestuff/prose/Transformation.Text/bin/Debug/netcoreapp2.0/Transformation.Text.deps.json
+/home/anish/prosestuff/prose/Transformation.Text/bin/Debug/netcoreapp2.0/Transformation.Text.runtimeconfig.json
+/home/anish/prosestuff/prose/Transformation.Text/bin/Debug/netcoreapp2.0/Transformation.Text.runtimeconfig.dev.json
+/home/anish/prosestuff/prose/Transformation.Text/bin/Debug/netcoreapp2.0/Transformation.Text.dll
+/home/anish/prosestuff/prose/Transformation.Text/bin/Debug/netcoreapp2.0/Transformation.Text.pdb
+/home/anish/prosestuff/prose/Transformation.Text/obj/Debug/netcoreapp2.0/Transformation.Text.csproj.CoreCompileInputs.cache
+/home/anish/prosestuff/prose/Transformation.Text/obj/Debug/netcoreapp2.0/Transformation.Text.AssemblyInfoInputs.cache
+/home/anish/prosestuff/prose/Transformation.Text/obj/Debug/netcoreapp2.0/Transformation.Text.AssemblyInfo.cs
+/home/anish/prosestuff/prose/Transformation.Text/obj/Debug/netcoreapp2.0/Transformation.Text.dll
+/home/anish/prosestuff/prose/Transformation.Text/obj/Debug/netcoreapp2.0/Transformation.Text.pdb
